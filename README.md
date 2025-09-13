@@ -1,5 +1,6 @@
 Exploratory Data Analysis of Netflix Dataset using Python
-📊 Netflix Data Analysis with Python
+
+- 📊 Netflix Data Analysis with Python
 
 This project analyzes the Netflix dataset to uncover trends and insights about movies and TV shows.  
 It demonstrates *data cleaning, visualization, and exploratory data analysis (EDA)* using Python.
